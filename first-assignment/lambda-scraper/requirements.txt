@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+mangum
+handler
+requests
+bs4
+pytz
+boto3
